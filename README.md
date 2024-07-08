@@ -127,6 +127,10 @@ folder:AddBind({
 })
 ```
 
+### Close Lib
+```lua
+library:Close()
+```
 
 
 
