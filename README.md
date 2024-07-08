@@ -1,10 +1,13 @@
 # Tora Library
 Simple Ui Library. With Clean And Sexy Ui
-Note : This Is The Old Version, The Difference Is Font!!!
-
+Credit To Tora
 ### Setup The Library
 ```lua
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/liebertsx/Tora-Library/main/src/library",true))()
+```
+### Or Use The New
+```lua
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/liebertsx/Tora-Library/main/src/librarynew",true))()
 ```
 
 
